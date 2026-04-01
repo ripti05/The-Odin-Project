@@ -44,3 +44,4 @@ The goal of this project is to practice structuring content on a webpage and und
 ## Acknowledgment
 This project is part of the curriculum from  
 👉 [The Odin Project](https://www.theodinproject.com/)
+
